@@ -1,5 +1,5 @@
 ---
-title: "WHOAFRO/DPC: Diphtheria Slideck Update, 2025"
+title: "Diphtheria Slideck Update, 2025"
 author: "muiangaj@who.int"
 format:
   html:

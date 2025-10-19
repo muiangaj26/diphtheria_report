@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Diphtheria: AFRO Slideck Update, 2025"
+  title: "WHOAFRO/DPC"
   navbar:
     left:
       - href: index.qmd
