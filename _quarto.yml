@@ -1,5 +1,21 @@
 project:
-  title: "quarto_report"
+  type: website
+
+website:
+  title: "Diphtheria: AFRO Slideck Update, 2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
 
 editor: visual
 
